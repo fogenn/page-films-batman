@@ -11,6 +11,7 @@ body {
   background-image: url(../img/main-bg.jpg);
   background-repeat: no-repeat;
   background-position: top center;
+  background-size: 100%
 }
 
 .container {
