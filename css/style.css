@@ -238,7 +238,12 @@ input::-ms-input-placeholder {
 }
 
 .tabs-content {
+  display: none;
   margin-right: 70px;
+}
+
+.visible {
+  display: block;
 }
 
 .tabs-item {
